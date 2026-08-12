@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ภูตะวัน ประวันเณย์</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 700px;
+            margin: 100px auto;
+            background: white;
+            padding: 50px;
+            border-radius: 20px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            font-size: 20px;
+            color: #666;
+        }
+
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 25px;
+            background: #24292e;
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+        }
+
+        .button:hover {
+            background: #555;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>สวัสดีครับ 👋</h1>
+
+        <h2>ภูตะวัน ประวันเณย์</h2>
+
+        <p>รหัสนักศึกษา: 66011211085</p>
+
+        <p>ยินดีต้อนรับเข้าสู่เว็บไซต์ของผม</p>
+
+        <a class="button" href="https://github.com/" target="_blank">
+            GitHub
+        </a>
+    </div>
+
+</body>
+</html>
